@@ -1,0 +1,4 @@
+*.mp4
+*.webm
+!diffloop-cropped-tiny.webm
+!diffloop-thumb.webm
